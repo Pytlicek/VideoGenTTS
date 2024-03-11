@@ -1,0 +1,181 @@
+HamRadio Prefixy - Trieda E
+Vo Formate: Prefix a Krajina.
+3A: Monako
+3V: Tunisko
+3W, XV: Vietnam
+4J,4K: Azerbajdžan
+4L: Gruzinsko
+4S: Srí Lanka
+4U_ITU: ITU HQ
+4U_UN: United Nations HQ
+4X, 4Z: Izrael
+5A: Líbya
+5B: Cyprus
+5H: Tanzánia
+5N: Nigéria
+5R: Madagaskar
+5T: Mauretánia
+5U: Niger
+5V: Togo
+5X: Uganda
+5Z: Keňa
+6W: Senegal
+6Y: Jamajka
+7Q: Malawi
+7X: Alžírsko
+8P: Barbados
+8Q: Maldivy
+8R: Guyana
+9A: Chorvátsko
+9G: Ghana
+9H: Malta
+9J: Zambia
+9K: Kuvajt
+9L: Sierra Leone
+9M2: Západná Malajzia
+9M6, 8: Východná Malajzia
+9N: Nepál
+9Q: Zair
+9U: Burundi
+9V: Singapur
+9X: Rwanda
+9Y: Trinidad & Tobago
+A2: Botswana
+A3: Tonga
+A4: Omán
+A5: Bután
+A6: Spojené arabské emiráty
+A7: Katar
+A9: Bahrajn
+AP: Pakistan
+BV: Taiwan
+BY,BT: Čína
+C3: Andorra
+C5: Gambie
+C6: Bahamy
+C9: Mozambik
+CE: Čile
+CE9, KC4: Antarktída
+CM, CO: Kuba
+CN: Maroko
+CP: Bolívia
+CT: Portugalsko
+CT3: Madeira Island
+CU: Azory
+CX: Uruguaj
+D2-3: Angola
+DA-DL: Nemecko
+DU: Filipíny
+E6: Čierna Hora
+EA-EH: Španielsko
+EA6-EH6: Baleársky ostrovy
+EA8-EH8: Kanárske ostrovy
+EA9-EH9: Ceuta & Melilla
+EI-EJ: Írsko
+EK: Arménsko
+EL: Libéria
+EP: Irán
+ER: Moldavsko
+ES: Estónsko
+ET: Etiópia
+EU, EV, EW: Bielorusko
+EX: Kirgizsko
+EY: Tadžikistan
+EZ: Turkménsko
+F: Francúzsko
+FO: Francúzska Polynézia
+FR: Reunion
+G: Anglicko
+GD: Isle of Man
+GI: Severné Írsko
+GJ: Jersey
+GM: Škótsko
+GU: Guernsey
+GW: Wales
+HA, HG: Maďarsko
+HB: Švajčiarsko
+HB0: Lichtenštajnsko
+HC: Ekvádor
+HH: Haiti
+HI: Dominikánska republika
+HK: Kolumbia
+HL: Južná Kórea
+HP: Panama
+HR: Honduras
+HS: Thajsko
+HV: Vatikán
+HZ: Saudská Arábia
+I: Taliansko
+IS: Sardínia
+J2: Džibutsko
+JA-JS: Japonsko
+JT: Mongolsko
+JW: Svalbard
+JX: Jan Mayen
+JY: Jordánsko
+K,W,N, AA az AK: USA
+KH6,KH7 (AH,NH,WH): Havaj
+KL: Aljaška
+LA: Nórsko
+LU: Argentína
+LX: Luxembursko
+LY: Litva
+LZ: Bulharsko
+OA: Peru
+OD: Libanon
+OE: Rakúsko
+OH: Fínsko
+OH0: Aland Island
+OJ0: Market Reef
+OK: Česká republika
+OM: Slovenská republika
+ON: Belgicko
+OX: Grónsko
+OY: Faerské ostrovy
+OZ: Dánsko
+PA: Holandsko
+PP-PY: Brazília
+S5: Slovinsko
+SM: Švédsko
+SP: Poľsko
+ST: Sudán
+SU: Egypt
+SV: Grécko
+SV/A: Mount Athos
+SV5: Dodekanéz (Rhodes)
+SV9: Kréta
+T7: San Maríno
+TA: Turecko
+TF: Island
+TG: Guatemala
+TI: Kostarika
+TK: Korzika
+UA-UI1,3,4,6, RA-RZ: Európske Rusko
+UA2: Kaliningrad
+UA-UI8,9,0, RA-RZ: Ázijské Rusko
+UJ-UM: Uzbekistan
+UN-UQ: Kazachstan
+UR-UZ, EM-EO: Ukrajina
+VE, VO, VY: Kanada
+VK: Austrália
+VU: India
+XE: Mexiko
+XU: Kambodža
+XW: Laos
+YA: Afganistan
+YB-YH: Indonézia
+YI: Irak
+YK: Sýria
+YL: Lotyšsko
+YN: Nikaragua
+YO: Rumunsko
+YS: Salvádor
+YU: Srbsko
+YV: Venezuela
+Z2: Zimbabwe
+Z3: Severné Makedónsko
+ZA: Albánsko
+ZB2: Gibraltar
+ZL: Nový Zéland
+ZP: Paraguaj
+ZS: Južná Afrika

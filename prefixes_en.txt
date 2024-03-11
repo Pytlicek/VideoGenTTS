@@ -1,0 +1,182 @@
+Ham Radio Prefixes
+Class E - Extra
+In Format: Prefix, then Country.
+3A: Monaco
+3V: Tunisia
+3W, XV: Vietnam
+4J,4K: Azerbaijan
+4L: Georgia
+4S: Sri Lanka
+4U_ITU: ITU HQ
+4U_UN: United Nations HQ
+4X, 4Z: Israel
+5A: Libya
+5B: Cyprus
+5H: Tanzania
+5N: Nigeria
+5R: Madagascar
+5T: Mauritania
+5U: Niger
+5V: Togo
+5X: Uganda
+5Z: Kenya
+6W: Senegal
+6Y: Jamaica
+7Q: Malawi
+7X: Algeria
+8P: Barbados
+8Q: Maldives
+8R: Guyana
+9A: Croatia
+9G: Ghana
+9H: Malta
+9J: Zambia
+9K: Kuwait
+9L: Sierra Leone
+9M2: West Malaysia
+9M6, 8: East Malaysia
+9N: Nepal
+9Q: Zaire
+9U: Burundi
+9V: Singapore
+9X: Rwanda
+9Y: Trinidad & Tobago
+A2: Botswana
+A3: Tonga
+A4: Oman
+A5: Bhutan
+A6: United Arab Emirates
+A7: Qatar
+A9: Bahrain
+AP: Pakistan
+BV: Taiwan
+BY,BT: China
+C3: Andorra
+C5: The Gambia
+C6: Bahamas
+C9: Mozambique
+CE: Chile
+CE9/KC4: Antarctica
+CM, CO: Cuba
+CN: Morocco
+CP: Bolivia
+CT: Portugal
+CT3: Madeira Island
+CU: Azores
+CX: Uruguay
+D2-3: Angola
+DA-DL: Germany
+DU: Philippines
+E6: Montenegro
+EA-EH: Spain
+EA6-EH6: Balearic Is.
+EA8-EH8: Canary Is.
+EA9-EH9: Ceuta & Melilla
+EI-EJ: Ireland
+EK: Armenia
+EL: Liberia
+EP: Iran
+ER: Moldovia
+ES: Estonia
+ET: Ethiopia
+EU, EV, EW: Belarus
+EX: Kyrgystan
+EY: Tajikistan
+EZ: Turkmenistan
+F: France
+FO: French Polynesia
+FR: Reunion
+G: England
+GD: Isle of Man
+GI: Northern Ireland
+GJ: Jersey
+GM: Scotland
+GU: Guernsey
+GW: Wales
+HA, HG: Hungary
+HB: Switzerland
+HB0: Liechtenstein
+HC: Ecuador
+HH: Haiti
+HI: Dominican Republic
+HK: Colombia
+HL: South Korea
+HP: Panama
+HR: Honduras
+HS: Thailand
+HV: Vatican
+HZ: Saudi Arabia
+I: Italy
+IS: Sardinia
+J2: Djibouti
+JA-JS: Japan
+JT: Mongolia
+JW: Svalbard
+JX: Jan Mayen
+JY: Jordan
+K,W,N, AA-AK: United States of America
+KH6,KH7 (AH,NH,WH): Hawaii
+KL: Alaska
+LA: Norway
+LU: Argentina
+LX: Luxembourg
+LY: Lithuania
+LZ: Bulgaria
+OA: Peru
+OD: Lebanon
+OE: Austria
+OH: Finland
+OH0: Aland Island
+OJ0: Market Reef
+OK: Czech Republic
+OM: Slovak Republic
+ON: Belgium
+OX: Greenland
+OY: Faroe Is.
+OZ: Denmark
+PA: Netherlands
+PP-PY: Brazil
+S5: Slovenia
+SM: Sweden
+SP: Poland
+ST: Sudan
+SU: Egypt
+SV: Greece
+SV/A: Mount Athos
+SV5: Dodecanese (Rhodes)
+SV9: Crete
+T7: San Marino
+TA: Turkey
+TF: Iceland
+TG: Guatemala
+TI: Costa Rica
+TK: Corsica
+UA-UI1,3,4,6,RA-RZ: European Russia
+UA2: Kaliningrad
+UA-UI8,9,0,RA-RZ: Asiatic Russia
+UJ-UM: Uzbekistan
+UN-UQ: Kazakhstan
+UR-UZ, EM-EO: Ukraine
+VE, VO, VY: Canada
+VK: Australia
+VU: India
+XE: Mexico
+XU: Cambodia
+XW: Laos
+YA: Afghanistan
+YB-YH: Indonesia
+YI: Iraq
+YK: Syria
+YL: Latvia
+YN: Nicaragua
+YO: Romania
+YS: El Salvador
+YU: Serbia (Srbsko)
+YV: Venezuela
+Z2: Zimbabwe
+Z3: Macedonia
+ZA: Albania
+ZB2: Gibraltar
+ZL: New Zealand
+ZP: Paraguay
+ZS: South Africa
