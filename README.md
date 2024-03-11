@@ -2,10 +2,13 @@
 
 This script generates a video from a list of text phrases, each accompanied by synthesized speech using Google's Text-to-Speech (gTTS) API. Each line of text from an input file is displayed as a separate video clip with a corresponding audio track that reads the text aloud.
 
+<img width="50%" alt="screenshot" src="https://github.com/Pytlicek/VideoGenTTS/assets/1430522/575ba71b-4477-4cf6-9c76-38b4f0e1d30f">
+
+
 ## Features
 
 - Converts a list of text phrases into spoken audio using gTTS.
-- Generates a video clip for each phrase with custom background and text color.
+- Generates a video clip for each phrase with a custom background and text color.
 - Combines all video clips into a single output video file.
 - Adjusts the duration of each video clip to match the length of the audio.
 - Preprocesses text to adjust the pronunciation for TTS.
